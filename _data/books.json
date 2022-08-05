@@ -1,0 +1,242 @@
+[{
+  "_id": {
+    "$oid": "62d11617d347df71ec5961f5"
+  },
+  "name": "Haryy potter",
+  "author": "Shalom Joel",
+  "ISBN": "475849595094",
+  "category": "fiction",
+  "__v": 0,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658216275466"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d11ad6dc188083bef971fc"
+  },
+  "name": "HARRY potetr",
+  "author": "who knows",
+  "ISBN": "647475748",
+  "category": "fiction",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d11b3cbb1775a4ed62da89"
+  },
+  "name": "HARRY potetr",
+  "author": "who knows",
+  "ISBN": "647475748",
+  "category": "fiction",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d1b00865f3685759df5b89"
+  },
+  "name": "edga",
+  "author": "espoir",
+  "ISBN": "1123334",
+  "category": "fun",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d1b0a04f9cadbacb0b147b"
+  },
+  "name": "edga",
+  "author": "espoir",
+  "ISBN": "1123334",
+  "category": "fun",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d40e1890fd4387285cb8df"
+  },
+  "name": "Purple hibiscus",
+  "author": "Chimamanda Adichie",
+  "ISBN": "648858948",
+  "category": "afro fiction",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d40e76a71eb07c5f842957"
+  },
+  "name": "Purple hibiscus",
+  "author": "Chimamanda Adichie",
+  "ISBN": "648858948",
+  "category": "afro fiction",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d40eb7465e9991e96ab563"
+  },
+  "name": "Purple hibiscus",
+  "author": "Chimamanda Adichie",
+  "ISBN": "648858948",
+  "category": "afro fiction",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d40f04d565925b4866c48e"
+  },
+  "name": "Purple hibiscus",
+  "author": "Chimamanda Adichie",
+  "ISBN": "648858948",
+  "category": "afro fiction",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d40fdece6d6609485cc914"
+  },
+  "name": "Purple hibiscus",
+  "author": "Chimamanda Adichie",
+  "ISBN": "648858948",
+  "category": "afro fiction",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d41032b42ceee1b8fd1e4f"
+  },
+  "name": "Purple hibiscus",
+  "author": "Chimamanda Adichie",
+  "ISBN": "648858948",
+  "category": "afro fiction",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d4116b9227f0508a10f9e8"
+  },
+  "name": "Purple hibiscus",
+  "author": "Chimamanda Adichie",
+  "ISBN": "648858948",
+  "category": "afro fiction",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d42980ddd119ea0524c1e1"
+  },
+  "name": "Purple hibiscus",
+  "author": "Chimamanda Joel",
+  "ISBN": "648858948",
+  "category": "afro fiction",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d42b3907e103903c76011d"
+  },
+  "name": "Purple hibiscus",
+  "author": "Chimamanda Joel",
+  "ISBN": "648858948",
+  "category": "afro fiction",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d42c8398e1b83996515fcf"
+  },
+  "name": "Purple hibiscus",
+  "author": "Chimamanda Joel",
+  "ISBN": "648858948",
+  "category": "afro fiction",
+  "slug": "purple-hibiscus",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d42d56412d6db6f6271e02"
+  },
+  "name": "The shortest history of germany",
+  "author": "James Hawes",
+  "ISBN": "648858948",
+  "category": "history",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658072406084"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658072406084"
+    }
+  },
+  "slug": "the-shortest-history-of-germany",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d5a3292239955a9430cfd7"
+  },
+  "name": "edga",
+  "author": "espoir",
+  "ISBN": "1123334",
+  "category": "fun",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658168105111"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658168105111"
+    }
+  },
+  "slug": "edga",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d5b098f4da87d5ce968dcb"
+  },
+  "name": "edga",
+  "author": "espoir",
+  "ISBN": "1123334",
+  "category": "fun",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658171544679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658171544679"
+    }
+  },
+  "slug": "edga",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d5b80503fd07e7e73bcd60"
+  },
+  "name": "edga",
+  "author": "espoir",
+  "ISBN": "1123334",
+  "category": "fun",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658173445868"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658173445868"
+    }
+  },
+  "slug": "edga",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d65b321f017cfb060bf89a"
+  },
+  "name": "The shortest history of germany",
+  "author": "James Hawes",
+  "ISBN": "648858948",
+  "category": "history",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658215218080"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658215218080"
+    }
+  },
+  "slug": "the-shortest-history-of-germany",
+  "__v": 0
+}]

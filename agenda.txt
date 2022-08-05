@@ -1,0 +1,13 @@
+- 22 July 
+when to reference or embed 
+apporaches to embeding 
+mongoose ppopulate 
+poluate with path - return admin on a book
+virtuals - return reviews on a book
+aggration piples line e.g find total reviews on abook
+
+
+users ->  wallet (nested path or nested schema) || embed or reference 
+
+books -> reviews reference
+user
